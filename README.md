@@ -3,7 +3,7 @@ This is a master repository for the Study Buddy project which is based on micros
 ---
 ### All repos: -
 
-#### Project repos:
+#### Development repos:
 https://github.com/viditpawar0/study-buddy-service-registry
 
 https://github.com/viditpawar0/study-buddy-config-repo
